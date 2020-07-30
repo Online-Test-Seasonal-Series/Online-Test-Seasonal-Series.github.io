@@ -33,14 +33,14 @@ body {
 	line-height: 1;
 }
 
-.img-wrapper {
+.image-wrapping {
     display: inline-block;
     overflow: hidden;
 
     border: 1px solid gray;
 }
 
-.img-wrapper img {
+.image-wrapping img {
     -webkit-transition: all .5s ease;
     -moz-transition: all .5s ease;
     -ms-transition: all .5s ease;
@@ -50,7 +50,7 @@ body {
     vertical-align: middle;
 }
 
-.img-wrapper img:hover {
+.image-wrapping img:hover {
     -webkit-transform:scale(1.3); /* Safari and Chrome */
     -moz-transform:scale(1.3); /* Firefox */
     -ms-transform:scale(1.3); /* IE 9 */
