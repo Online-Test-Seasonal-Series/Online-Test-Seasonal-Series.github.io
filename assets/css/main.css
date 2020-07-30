@@ -33,30 +33,6 @@ body {
 	line-height: 1;
 }
 
-.image-wrapping {
-    display: inline-block;
-    overflow: hidden;
-
-}
-
-.image-wrapping img {
-    -webkit-transition: all 1 ease;
-    -moz-transition: all 1 ease;
-    -ms-transition: all 1 ease;
-    -o-transition: all 1 ease;
-    transition: all 1 ease;
-
-    vertical-align: middle;
-}
-
-.image-wrapping img:hover {
-    -webkit-transform:scale(1.1); /* Safari and Chrome */
-    -moz-transform:scale(1.1); /* Firefox */
-    -ms-transform:scale(1.1); /* IE 9 */
-    -o-transform:scale(1.1); /* Opera */
-    transform:scale(1.1);
-}
-
 ol, ul {
 	list-style: none;
 }
