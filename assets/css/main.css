@@ -2461,13 +2461,13 @@ input, select, textarea {
 			}
 
 			.hoverzoom {
-            width: 300px;
-            height: 300px;
+            width: 100px;
+            height: 100px;
             overflow: hidden;
             margin: 0 auto;
         }
 
-        .hoverzoom img { 
+        .hoverzoom img {
             width: 100%;
             transition: 0.5s all ease-in-out;
         }
