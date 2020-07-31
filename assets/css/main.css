@@ -2468,7 +2468,7 @@ input, select, textarea {
         }
 
         .hoverzoom img {
-            width: 100%;
+            width: 60%;
             transition: 0.5s all ease-in-out;
         }
 
