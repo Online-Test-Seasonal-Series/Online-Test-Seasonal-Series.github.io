@@ -3588,7 +3588,7 @@ input, select, textarea {
 
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
-			background-color: #2e3141;
+			background-color: #06a106;
 			background-image: linear-gradient(to top, rgba(6, 161, 6, 0.8), rgba(17, 134, 212, 0.8)), url("../../images/bg.jpg");
 			background-size: auto, cover;
 			background-position: center, 0% 30%;
@@ -3631,7 +3631,7 @@ input, select, textarea {
 	}
 
 	.wrapper {
-		background-color: #2e3141;
+		background-color: #06a106;
 		margin: 6.5em 0;
 		position: relative;
 	}
